@@ -1,0 +1,15 @@
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/bin/Debug/net7.0/forge
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/bin/Debug/net7.0/forge.deps.json
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/bin/Debug/net7.0/forge.runtimeconfig.json
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/bin/Debug/net7.0/forge.dll
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/bin/Debug/net7.0/forge.pdb
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.csproj.AssemblyReference.cache
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.AssemblyInfoInputs.cache
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.AssemblyInfo.cs
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.csproj.CoreCompileInputs.cache
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.dll
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/refint/forge.dll
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.pdb
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/forge.genruntimeconfig.cache
+/Users/ryananderson/dev/personal-projects/X-Wing-4HG-Ideas/forge/obj/Debug/net7.0/ref/forge.dll

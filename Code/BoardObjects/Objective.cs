@@ -1,0 +1,6 @@
+class Objective
+{
+    public Objective()
+    {
+    }
+}

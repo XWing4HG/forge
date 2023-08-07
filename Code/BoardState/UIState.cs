@@ -1,0 +1,6 @@
+class UIState
+{
+    public UIState()
+    {
+    }
+}
