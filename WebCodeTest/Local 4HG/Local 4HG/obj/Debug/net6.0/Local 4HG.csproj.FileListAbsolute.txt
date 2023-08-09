@@ -1,0 +1,26 @@
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\appsettings.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\Local 4HG.staticwebassets.runtime.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\Local 4HG.exe
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\Local 4HG.deps.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\Local 4HG.runtimeconfig.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\Local 4HG.dll
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\bin\Debug\net6.0\Local 4HG.pdb
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.csproj.AssemblyReference.cache
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.AssemblyInfoInputs.cache
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.AssemblyInfo.cs
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.csproj.CoreCompileInputs.cache
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.RazorAssemblyInfo.cache
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.RazorAssemblyInfo.cs
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\scopedcss\bundle\Local 4HG.styles.css
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\scopedcss\projectbundle\Local 4HG.bundle.scp.css
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.dll
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\refint\Local 4HG.dll
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.pdb
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\Local 4HG.genruntimeconfig.cache
+C:\Dev\Personal Projects\XWing4HG\WebCodeTest\Local 4HG\Local 4HG\obj\Debug\net6.0\ref\Local 4HG.dll

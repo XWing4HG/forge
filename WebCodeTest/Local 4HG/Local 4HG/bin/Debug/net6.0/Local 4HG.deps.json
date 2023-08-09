@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Local 4HG/1.0.0": {
+        "runtime": {
+          "Local 4HG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Local 4HG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
